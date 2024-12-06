@@ -1,6 +1,6 @@
 I am a seasoned RPA Architect with extensive experience in designing and implementing intelligent automation solutions. With a strong foundation in Robotic Process Automation (RPA) and expertise in Node.js and AWS-based backend development, I specialize in creating scalable, efficient, and secure automation workflows that drive digital transformation for businesses.
 
-I am passionate about leveraging modern technologies to optimize business processes, improve efficiency, and enable smarter decision-making. My approach combines the power of RPA tools (such as UiPath, Automation Anywhere, and Blue Prism) with custom backend solutions using .net, Python, Node.js and cloud services on AWS.
+I am passionate about leveraging modern technologies to optimize business processes, improve efficiency, and enable smarter decision-making. My approach combines the power of RPA tools (such as UiPath, Automation Anywhere, and Power Automate) with custom backend solutions using .net, Python, Node.js and cloud services on AWS.
 
 Technologies & Tools
 
